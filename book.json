@@ -6,5 +6,12 @@
     "plugins": [
         "disqus"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "disqus": {
+            "shortname": "Comment to Author"
+        }
+    }
 }
+
+
+$ gitbook build ./
