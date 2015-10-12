@@ -6,7 +6,7 @@
 
 ## 进展
 
--  Date[10/12/2015] 开写gitbook首页 P1
+-  Date[10/12/2015] 从github导入模板开写gitbook首页 P1
 -  办公室电脑搭建python使用环境
 
  
