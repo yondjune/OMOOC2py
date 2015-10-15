@@ -1,16 +1,12 @@
-{
-    "title": "开智学院 编程课程 Python 入门班 私人教程模板",
-    "version": "15.9.18,2020",
-    "description": "OMOOC.py tutorial for teching",
-    "author": "OMOOC-support <omooc-support@googlegroups.com>",
-    "plugins": [
-        "disqus"
-    ],
+
+{"title": "test-for-gitbook",
+    "version": "15.10.14",
+    "description": "ha",
+    "author": "yondjune <80568771@qq.com>",
+    "plugins": ["disqus"],
     "pluginsConfig": {
         "disqus": {
-            "shortname": "Comment to Author"
+        "shortName": "yondjune"
         }
-    }
+    } 
 }
-
-
