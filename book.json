@@ -1,8 +1,5 @@
 
-{"title": "test-for-gitbook",
-    "version": "15.10.14",
-    "description": "ha",
-    "author": "yondjune <80568771@qq.com>",
+{
     "plugins": ["disqus"],
     "pluginsConfig": {
         "disqus": {
@@ -10,3 +7,4 @@
         }
     } 
 }
+
