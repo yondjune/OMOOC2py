@@ -3,6 +3,7 @@
 * [Introduction](README.md)
    * [0w Diary](0w_diarymd.md)
        * [1w Diary](1w_diary.md)
+   * ow Lecture
 * [教学反转](0MOOC/README.md)
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
