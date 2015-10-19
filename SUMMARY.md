@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * [0W Diary](0W diary.md)
+   * [0w Diary](0w diary.md)
        * 1w Diary
 * [教学反转](0MOOC/README.md)
 * [基础旋进](1sTry/README.md)
