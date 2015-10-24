@@ -6,6 +6,7 @@
        * [2w diary](2w_diary.md)
    * [ow Lecture](ow_lecture.md)
        * [1w Lecture](1w_lecture.md)
+       * 1w Lecture
 * [教学反转](0MOOC/README.md)
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
