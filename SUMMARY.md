@@ -3,7 +3,7 @@
 * [Introduction](README.md)
    * [0w Diary](0w_diarymd.md)
        * [1w Diary](1w_diary.md)
-       * 1w diary
+       * 2w diary
    * [ow Lecture](ow_lecture.md)
        * 1w Lecture
 * [教学反转](0MOOC/README.md)
