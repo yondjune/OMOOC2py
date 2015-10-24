@@ -3,22 +3,6 @@
 
 #本周任务
 ![](1w task 01.jpg)
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #0MOOC Date[10/22/2015]
 
 
@@ -95,6 +79,6 @@ print blog
 del blog[1]
 print blog
 
-![](my run 1.jpg)
+
 
 
