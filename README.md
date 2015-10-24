@@ -1,39 +1,45 @@
+ 
+
+# 2015 Oct Python教程
+
+* ##重要教学信息整理
+            - 邮件的公告推送  
+            - 芝麻星  http://www.iomooc.com 
+            - 技术点的解决 阿西莫夫 聊天记录
+            - github issue
+            
+ ###网上资源可直接拷贝代码运行检验
+    http://itlab.idcquan.com/linux/manual/Python_chinese/ 简明python 
+
+    https://code.org/
+    
+    http://www.pythondoc.com
 
 
-#本周任务
-![](0w task.jpg)
+## Contents of **Introduction**
+
+- Diary：0W- W的课程日记
+        0W的课程日记
+        1W的课程日记
+        ...
 
 
-#0MOOC Date[10/17/2015]
-
-0W 大妈公开课笔记 链接
-https://yondjune.gitbooks.io/ex1/content/.Lecture/0w_notesfor_lecture_md_md.html
-
-
-##进展
-- 调整心态周末好好休息
-- 阅读代码案例 并尝试运行
-- 控制自身的学习节奏 排除外在因素尤其是同侪压力的影响 
-- 对比半个月前已有明显进步 lol
-
-
-##新增知识点
-
-- Windows 配置 github 参考教练和优秀同学的课程如下
-
-http://www.ibowarrow.com/CodingNotes/source/WindowsGithub.html
-
-https://github.com/OpenMindClub/OMOOC2py/issues/17
-
-
-- Google 帮助:
-https://support.google.com/websearch/answer/134479?hl=en
-Search operator:
-https://support.google.com/websearch/answer/2466433?vid=1-635805120007651578-1473977798
+- Lecture：0W- W大妈公开课笔记
+        0W大妈公开课笔记
+        1W大妈公开课笔记
+        ...
 
 
 
-##未完成
+## 基础旋进
+- 记录一些课程的技术小项难点
+    - 如 **disqus **安装
+    - github 和 gitbook 账号的互推
+    
 
-- 以上新增的知识点
-- 预习1W的任务
+        ...
+    
+
+
+## 迭代作品
+- 太遥远了
