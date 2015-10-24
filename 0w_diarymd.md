@@ -5,13 +5,8 @@
 
 
 #本周任务
-
-
-
-
-
-
-
+![](0w task- (1).jpg)
+ 
 # 经典四十二行代码 
 http://wiki.woodpecker.org.cn/moin/ZqQuickIntoPy?action=AttachFile&do=view&target=coffeeghost-q-in-py.py
 
