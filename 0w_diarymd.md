@@ -8,6 +8,15 @@
 
 
 
+
+
+
+
+# 经典四十二行代码 
+http://wiki.woodpecker.org.cn/moin/ZqQuickIntoPy?action=AttachFile&do=view&target=coffeeghost-q-in-py.py
+
+
+
 #0MOOC Date[10/17/2015]
 
 0W 大妈公开课笔记 链接
