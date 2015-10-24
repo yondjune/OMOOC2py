@@ -80,5 +80,5 @@ del blog[1]
 print blog
 
 
-
+![](my run 1.jpg)
 
